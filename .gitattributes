@@ -4,3 +4,5 @@
 *.cc linguist-detectable=false
 *.c linguist-detectable=false
 *.so linguist-detectable=false
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
